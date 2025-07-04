@@ -3,7 +3,7 @@ import { useParams, useLocation } from "react-router-dom";
 import Editor from "@monaco-editor/react";
 import { io } from "socket.io-client";
 
-const socket = io("http://localhost:5000");
+const socket = io("https://collab-code-backend-4fb1.onrender.com");
 
 function EditorPage() {
   const { roomId } = useParams();
