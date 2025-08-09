@@ -42,9 +42,9 @@ client/
 │ └── styles.css
 │── package.json
 
---
+---
 
-## ## ⚙️ Installation & Setup
+ ## ⚙️ Installation & Setup
 
 1️⃣ Navigate to the client folder
 cd client
